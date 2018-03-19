@@ -1,13 +1,13 @@
-# AutonomousDrone
+### AutonomousDrone
 Contains files related to the Autonomous drone project.
 
-Platform: 
-DJI Matrice 100.
+#### Platform: 
+1. DJI Matrice 100.
 
-Addon Kits:
-DJI Manifold
-DJI Guidance
+#### Addon Kits:
+1. DJI Manifold
+2. DJI Guidance
 
-External Hardware:
-Arduino Uno.
-Raspberry Pi.
+#### External Hardware:
+1. Arduino Uno.
+2. Raspberry Pi.
