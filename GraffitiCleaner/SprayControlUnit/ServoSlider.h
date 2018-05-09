@@ -1,5 +1,6 @@
 
-  Rotate a servo using a slider!
+/************************************************************  
+Rotate a servo using a slider!
 
   App project setup:
     Slider widget (0...90) on V2
